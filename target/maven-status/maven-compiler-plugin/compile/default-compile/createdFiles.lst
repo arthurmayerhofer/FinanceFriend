@@ -1,0 +1,5 @@
+model\Movimento.class
+infra\DAO.class
+test\InserirMovimento.class
+infra\MovimentoDAO.class
+test\ObterMovimento.class
